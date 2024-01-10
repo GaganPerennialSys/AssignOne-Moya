@@ -11,3 +11,11 @@ pod 'RxCocoa'
   # Pods for DemoRxSwift
 
 end
+
+target 'DemoRxSwiftTests' do
+
+  pod 'Firebase/Crashlytics'
+pod 'Moya/RxSwift', '~> 15.0'
+pod 'RxCocoa'
+
+end

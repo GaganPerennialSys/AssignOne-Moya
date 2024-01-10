@@ -64,6 +64,21 @@
                   endingLineNumber = "37"
                   offsetFromSymbolStart = "88">
                </Location>
+               <Location
+                  uuid = "298CF4CB-93DE-453F-B3E9-B71F8C1257C3 - 1a14c84f28998ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoRxSwift.LoginViewModel.handleLoginResult(username: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/ViewModels/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "88">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -350,6 +365,21 @@
                   endingLineNumber = "90"
                   offsetFromSymbolStart = "300">
                </Location>
+               <Location
+                  uuid = "23176072-2BFA-4E6D-911D-77F719C4CA0B - 944dfc9f48c86718"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Optional&lt;DemoRxSwift.WeatherData&gt;) -&gt; () in DemoRxSwift.TodoViewController.setupBindings() -&gt; ()"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/ViewControllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "432">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -413,6 +443,21 @@
                   endingLineNumber = "84"
                   offsetFromSymbolStart = "1992">
                </Location>
+               <Location
+                  uuid = "29D3935D-2AE4-4DA2-AB2E-D5A876372F49 - 485fec19897011fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoRxSwift.TodoViewController.setupBindings() -&gt; ()"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/ViewControllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "1996">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -460,6 +505,21 @@
                   startingLineNumber = "89"
                   endingLineNumber = "89"
                   offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "A9D32D4D-C56F-4E46-BBEB-B3F61F1C7852 - 944dfc9f48c86779"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Optional&lt;DemoRxSwift.WeatherData&gt;) -&gt; () in DemoRxSwift.TodoViewController.setupBindings() -&gt; ()"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/ViewControllers/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "296">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -605,6 +665,21 @@
                   endingLineNumber = "31"
                   offsetFromSymbolStart = "100">
                </Location>
+               <Location
+                  uuid = "ADA315DF-26D3-4093-BFC8-F87CFC40DC50 - 8bd5e12cfbe94d2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in DemoRxSwift.LoginViewModel.login(completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/ViewModels/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "100">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -647,6 +722,21 @@
                   moduleName = "DemoRxSwift"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/perennial/Desktop/DemoRxSwift/DemoRxSwift/ViewModels/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "124161ED-0B83-442F-8F41-7A893B38F9AE - ae06a636dddf1a02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoRxSwift.LoginViewModel.login(completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/ViewModels/LoginViewModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "29"
@@ -716,6 +806,21 @@
                   endingLineNumber = "34"
                   offsetFromSymbolStart = "512">
                </Location>
+               <Location
+                  uuid = "778BF048-5AA9-4CDE-8711-B8907AB84006 - 8abfcbc173b2746c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;Swift.Optional&lt;Swift.String&gt;&gt;) -&gt; RxSwift.Disposable in DemoRxSwift.UserRepository.login(username: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/Repository/UserRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "512">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -779,6 +884,21 @@
                   endingLineNumber = "32"
                   offsetFromSymbolStart = "468">
                </Location>
+               <Location
+                  uuid = "E2CAA6ED-4CBD-4F5B-AE22-D480B15E55F2 - 8abfcbc173b2742a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;Swift.Optional&lt;Swift.String&gt;&gt;) -&gt; RxSwift.Disposable in DemoRxSwift.UserRepository.login(username: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/Repository/UserRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "468">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -821,6 +941,36 @@
                   moduleName = "DemoRxSwift"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/perennial/Desktop/DemoRxSwift/DemoRxSwift/Repository/UserRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "6B2E8861-FE88-46D8-9B5A-D06676436296 - 1d83e5fd40139647"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoRxSwift.UserRepository.login(username: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/Repository/UserRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "6B2E8861-FE88-46D8-9B5A-D06676436296 - 8abfcbc173b26b9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;Swift.Optional&lt;Swift.String&gt;&gt;) -&gt; RxSwift.Disposable in DemoRxSwift.UserRepository.login(username: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/Repository/UserRepository.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "20"
@@ -916,6 +1066,21 @@
                   moduleName = "DemoRxSwift"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/perennial/Desktop/DemoRxSwift/DemoRxSwift/Repository/UserRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "C6436CFA-0CBC-4A55-B4B1-A2D73E5A4D64 - 8abfcbc173b26bbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;Swift.Optional&lt;Swift.String&gt;&gt;) -&gt; RxSwift.Disposable in DemoRxSwift.UserRepository.login(username: Swift.String) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;"
+                  moduleName = "DemoRxSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/perennial/Desktop/DemoRxSwit%202/DemoRxSwift/Repository/UserRepository.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
