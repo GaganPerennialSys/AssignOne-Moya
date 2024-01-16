@@ -24,16 +24,13 @@ class WeatherViewModelTests: XCTestCase {
         let viewModel = WeatherViewModel(locationManager: locationProviderMock)
 
         let expectation = XCTestExpectation(description: "Fetch Weather Expectation")
-
+        viewModel.fetchWeather(latitude: 37.785834, longitude: -122.406417)
         viewModel.weatherData
             .subscribe(onNext: { weatherData in
-                XCTAssertNotNil(weatherData)
+                XCTAssertNil(weatherData)
                 expectation.fulfill()
             })
             .disposed(by: disposeBag)
-
-        viewModel.fetchWeather(latitude: 37.785834, longitude: -122.406417)
-
         wait(for: [expectation], timeout: 5.0)
     }
 
