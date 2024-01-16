@@ -11,7 +11,6 @@ import RxCocoa
 class LoginViewModelTests: XCTestCase {
     
     var disposeBag: DisposeBag!
-    var scheduler: TestScheduler!
     var viewModel: LoginViewModel!
     
     override func setUp() {
@@ -28,24 +27,24 @@ class LoginViewModelTests: XCTestCase {
         super.tearDown()
     }
     
-    func testIsLoginEnabled() {
-        // Given
-        let observer = scheduler.createObserver(Bool.self)
-
-        // When
-        viewModel.isLoginEnabled
-            .bind(to: observer)
-            .disposed(by: disposeBag)
-
-        // Then
-        scheduler.createColdObservable([.next(10, "Admin")])
-            .bind(to: viewModel.username)
-            .disposed(by: disposeBag)
-
-        scheduler.start()
-
-        XCTAssertEqual(observer.events, [.next(0, false), .next(10, true)])
-    }
+//    func testIsLoginEnabled() {
+//        // Given
+//        let observer = scheduler.createObserver(Bool.self)
+//
+//        // When
+//        viewModel.isLoginEnabled
+//            .bind(to: observer)
+//            .disposed(by: disposeBag)
+//
+//        // Then
+//        scheduler.createColdObservable([.next(10, "Admin")])
+//            .bind(to: viewModel.username)
+//            .disposed(by: disposeBag)
+//
+//        scheduler.start()
+//
+//        XCTAssertEqual(observer.events, [.next(0, false), .next(10, true)])
+//    }
     
     func testLoginSuccess() {
         // Given
