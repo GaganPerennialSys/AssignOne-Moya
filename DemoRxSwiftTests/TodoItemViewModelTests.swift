@@ -4,7 +4,7 @@
 //
 import XCTest
 import RxSwift
-@testable import DemoRxSwift // Import your app module
+@testable import DemoRxSwift
 import CoreData
 
 class TodoItemViewModelTests: XCTestCase {
