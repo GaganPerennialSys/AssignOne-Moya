@@ -14,7 +14,6 @@ class TodoItemViewModelTests: XCTestCase {
     override func setUp() {
         super.setUp()
         viewModel = TodoItemViewModel()
-        clearCoreData()
     }
 
     override func tearDown() {
@@ -44,7 +43,7 @@ class TodoItemViewModelTests: XCTestCase {
 
     func testUpdateTodoItem() {
         // Given
-        viewModel.setLoggedInUsername("testUser")
+        viewModel.setLoggedInUsername("Admin")
         viewModel.addTodoItem(title: "Test Todo", descriptionText: "Test Description", dateTime: Date())
 
         // When
